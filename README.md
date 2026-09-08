@@ -60,6 +60,7 @@
 |---|---|---|
 | [AI 써봄 Instagram 자동 게시기](https://github.com/LeeMS0122/ai-sseobom-instagram-automation) | AI 주제 탐색부터 카드뉴스 생성·Instagram 게시·알림까지 자동화한 워크플로 | Python, OpenAI API, Pillow, GitHub Actions |
 | [실내 배송 로봇용 경로 주행 보조 비전 시스템](https://github.com/LeeMS0122/Vision-Based-Navigation-Assistance-System-for-Indoor-Delivery-Robots) | 주행 가능 영역과 장애물을 인식하고 경로계획을 보조하는 졸업작품 | YOLO-seg, Depth, Cost Map, A* |
+| [분리ON · 모바일 분리배출 안내](https://github.com/LeeMS0122/waste-classification-deep-learning) | 생활폐기물 7개 품목을 탐지하고 분리배출 방법을 안내하는 Android 앱 | YOLO, Flutter, TFLite, W&B |
 | [Notion 포트폴리오](https://cake-oviraptor-b43.notion.site/314eefba1b6d81538fe2f56c4adb52b9?source=copy_link) | 시계열 예측, 데이터 분석, 연구 및 프로젝트 경험 모음 | Python, ML, Data Analysis |
 
 ## 📌 관심 분야
