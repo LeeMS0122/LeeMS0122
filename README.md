@@ -2,7 +2,7 @@
 
 # 이민수 | AI Developer
 
-### 데이터를 통해 문제를 정의하고, 코드로 검증하며, AI로 현실의 문제를 해결합니다.
+### 데이터로 문제를 정의하고, 코드로 검증하며, AI로 현실 문제 해결
 
 [![GitHub](https://img.shields.io/badge/GitHub-LeeMS0122-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeeMS0122)
 [![Naver Mail](https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:minsujang22@naver.com)
@@ -14,12 +14,12 @@
 
 ## 👋 소개
 
-전자컴퓨터공학을 전공하며 **데이터 분석, 시계열 예측, 컴퓨터 비전, AI 자동화** 프로젝트를 수행하고 있습니다.
+**전자컴퓨터공학 전공 | 데이터 분석 · 시계열 예측 · 컴퓨터 비전 · AI 자동화**
 
-- 실제 데이터를 수집·정제하고 EDA부터 모델 비교와 결과 시각화까지 진행합니다.
-- Prophet, CatBoost, XGBoost, LightGBM 등을 활용한 예측 문제를 다뤘습니다.
-- YOLO-seg와 Depth 정보를 활용한 실내 배송 로봇의 주행 보조 시스템을 개발하고 있습니다.
-- 실험 과정과 실패 원인을 기록하고, 동작하는 결과물로 연결하는 것을 중요하게 생각합니다.
+- 실제 데이터 수집·정제, EDA, 모델 비교, 결과 시각화
+- Prophet·CatBoost·XGBoost·LightGBM 기반 예측 모델 실험
+- YOLO-seg·Depth 기반 실내 배송 로봇 주행 보조 시스템 개발
+- 실험 과정과 실패 원인 기록, 동작하는 결과물 중심의 개선
 
 ## 🛠️ 기술 스택
 
@@ -73,6 +73,6 @@
 
 <div align="center">
 
-**꾸준히 실험하고 기록하며, 아이디어를 동작하는 결과물로 만들어가고 있습니다.**
+**꾸준한 실험과 기록, 아이디어를 동작하는 결과물로 구현**
 
 </div>
